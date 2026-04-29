@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Beginner–intermediate programming projects in C, C++, Python, and Java<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, college mini-projects, and problem-solving challenges<br><br>🌱 I’m currently learning:<br>C/C++, Python basics, logic building, or electronics mini-projects<br><br>⚡ Fun fact:<br>:3
+🔭 I’m currently working on:<br>Intermediate programming projects in C, C++, Python, and Java<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, college mini-projects, and problem-solving challenges<br><br>🌱 I’m currently learning:<br>C/C++, Python basics, logic building, or electronics mini-projects<br><br>⚡ Fun fact:<br>:3
 
 
 ## 🌐 Socials:
