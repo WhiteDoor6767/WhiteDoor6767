@@ -1,18 +1,122 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Intermediate programming projects in C, C++, Python, and Java<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, college mini-projects, and problem-solving challenges<br><br>🌱 I’m currently learning:<br>C/C++, Python basics, logic building, or electronics mini-projects<br><br>⚡ Fun fact:<br>I like Math
+# Hi, I'm Gururaj Naik
 
+### Computer Science Student • Software Developer • AI/ML Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gururajnaik7) 
+I build software to understand how things work — from algorithms and systems to full-stack applications and AI-powered tools.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WhiteDoor6767&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=WhiteDoor6767&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteDoor6767&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently exploring **C/C++, Python, Java, TypeScript, React, Node.js, and AI/ML** while building projects and strengthening my foundations in computer science.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=WhiteDoor6767&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I'm Working On
+
+* Building full-stack and AI-powered applications
+* Strengthening **DSA, algorithms, and problem solving**
+* Learning **machine learning and deep learning**
+* Exploring systems, developer tooling, and Linux
+* Contributing to open-source projects
+
+---
+
+## Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
+
+### Web & Backend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+
+### Data & AI/ML
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square\&logo=matplotlib\&logoColor=white)
+
+### Tools & Environment
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square\&logo=neovim\&logoColor=white)
+
+---
+
+## Featured Projects
+
+### AI-Powered Visual Learning
+
+An interactive learning system that transforms academic problems into structured, animated visual explanations, followed by a grounded quiz and adaptive re-teaching when the learner makes a mistake.
+
+**TypeScript • React • Gemini API • AI • Interactive Visualization**
+
+### Algorithmic Trading System
+
+A rule-based trading and backtesting system with automated data processing, strategy evaluation, risk metrics, and visualization.
+
+**Python • Pandas • NumPy • Matplotlib**
+
+### More Projects
+
+I'm continuously building smaller projects to explore algorithms, software engineering, web development, and AI.
+
+---
+
+## Currently Learning
+
+```text
+Computer Science
+├── Data Structures & Algorithms
+├── Algorithms & Problem Solving
+├── Object-Oriented Programming
+├── Operating Systems
+└── Computer Networks
+
+AI / ML
+├── Mathematics for ML
+├── Statistics
+├── Classical Machine Learning
+└── Deep Learning
+
+Software Engineering
+├── TypeScript
+├── React
+├── Backend Development
+├── APIs
+└── System Design
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=WhiteDoor6767&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteDoor6767&layout=compact&theme=transparent&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=WhiteDoor6767&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/gururajnaik7)
+
+---
+
+> Build. Break. Understand. Repeat.
