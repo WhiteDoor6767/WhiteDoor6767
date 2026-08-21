@@ -4,7 +4,7 @@
 
 I build software to understand how things work — from algorithms and systems to full-stack applications and AI-powered tools.
 
-Currently exploring **C/C++, Python, Java, TypeScript, React, Node.js, and AI/ML** while building projects and strengthening my foundations in computer science.
+I'm focused on **C/C++, Python, Java, TypeScript, React, Node.js, and AI/ML**, while building projects and strengthening my foundations in computer science.
 
 ---
 
@@ -12,7 +12,7 @@ Currently exploring **C/C++, Python, Java, TypeScript, React, Node.js, and AI/ML
 
 * Building full-stack and AI-powered applications
 * Strengthening **DSA, algorithms, and problem solving**
-* Learning **machine learning and deep learning**
+* Exploring **machine learning and deep learning**
 * Exploring systems, developer tooling, and Linux
 * Contributing to open-source projects
 
@@ -42,7 +42,7 @@ Currently exploring **C/C++, Python, Java, TypeScript, React, Node.js, and AI/ML
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square\&logo=matplotlib\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557?style=flat-square\&logo=matplotlib\&logoColor=white)
 
 ### Tools & Environment
 
@@ -70,32 +70,6 @@ A rule-based trading and backtesting system with automated data processing, stra
 ### More Projects
 
 I'm continuously building smaller projects to explore algorithms, software engineering, web development, and AI.
-
----
-
-## Currently Learning
-
-```text
-Computer Science
-├── Data Structures & Algorithms
-├── Algorithms & Problem Solving
-├── Object-Oriented Programming
-├── Operating Systems
-└── Computer Networks
-
-AI / ML
-├── Mathematics for ML
-├── Statistics
-├── Classical Machine Learning
-└── Deep Learning
-
-Software Engineering
-├── TypeScript
-├── React
-├── Backend Development
-├── APIs
-└── System Design
-```
 
 ---
 
