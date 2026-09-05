@@ -1,22 +1,10 @@
 # Hi, I'm Gururaj Naik
 
-### Computer Science Student • Software Developer • AI/ML Enthusiast
-
-I build software to understand how things work — from algorithms and systems to full-stack applications and AI-powered tools.
-
-I'm focused on **C/C++, Python, Java, TypeScript, React, Node.js, and AI/ML**, while building projects and strengthening my foundations in computer science.
+I like competitive programming and fostering open source software development
 
 ---
 
-## What I'm Working On
 
-* Building full-stack and AI-powered applications
-* Strengthening **DSA, algorithms, and problem solving**
-* Exploring **machine learning and deep learning**
-* Exploring systems, developer tooling, and Linux
-* Contributing to open-source projects
-
----
 
 ## Tech Stack
 
@@ -67,25 +55,10 @@ A rule-based trading and backtesting system with automated data processing, stra
 
 **Python • Pandas • NumPy • Matplotlib**
 
-### More Projects
 
-I'm continuously building smaller projects to explore algorithms, software engineering, web development, and AI.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=WhiteDoor6767&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteDoor6767&layout=compact&theme=transparent&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=WhiteDoor6767&theme=transparent&hide_border=true" />
-
-</div>
-
----
 
 ## Connect
 
