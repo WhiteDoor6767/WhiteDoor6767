@@ -1,4 +1,4 @@
-# Hi, I'm Gururaj Naik
+# Hi, I'm Gururaj
 
 I like competitive programming and fostering open source software development
 
